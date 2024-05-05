@@ -1,0 +1,6 @@
+CLUSTERING
+preprocessed the data
+used clustering algorithm
+checked the quality of the cluster using silhouette score
+visulized the cluster
+
